@@ -1,6 +1,11 @@
-# login_ui
+# Login UI
 
-Beautiful Login UI.
+Una vez ejecutada, la app debería de verse así:
+
+![](https://github.com/conbdevaca/login_ui/blob/master/login_ui_screenshot.png)
+
+Fuente original: https://www.youtube.com/watch?v=l4bLPfS1uik
+
 
 ## Getting Started
 
