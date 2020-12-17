@@ -4,7 +4,7 @@ Una vez ejecutada, la app debería de verse así:
 
 ![](https://github.com/conbdevaca/login_ui/blob/master/login_ui_screenshot.png)
 
-Fuente original: https://www.youtube.com/watch?v=l4bLPfS1uik
+Fuente original: https://www.youtube.com/watch?v=efbB8-x9T2c
 
 
 ## Getting Started
